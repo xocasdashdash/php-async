@@ -1,0 +1,15 @@
+{
+    "name": "joaquin/reactphp",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Joaquín Fernández Campo",
+            "email": "jfcampo@gmail.com"
+        }
+    ],
+    "require": {
+        "react/event-loop": "^0.5.2",
+        "react/http": "^0.8.3",
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
