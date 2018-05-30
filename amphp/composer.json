@@ -1,0 +1,12 @@
+{
+    "name": "joaquin/amphp",
+    "authors": [
+        {
+            "name": "Joaquín Fernández Campo",
+            "email": "jfcampo@gmail.com"
+        }
+    ],
+    "require": {
+        "amphp/amp": "^2.0"
+    }
+}
