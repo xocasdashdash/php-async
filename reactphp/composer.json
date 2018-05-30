@@ -10,6 +10,7 @@
     "require": {
         "react/event-loop": "^0.5.2",
         "react/http": "^0.8.3",
-        "guzzlehttp/guzzle": "^6.3"
+        "guzzlehttp/guzzle": "^6.3",
+        "react/http-client": "0.5.9"
     }
 }
